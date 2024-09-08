@@ -1,5 +1,8 @@
 #lang racket
 
+; Nome: Gabriel Frasson Costa / Matrícula: 202035001
+; Nome: Pedro do Couto Filgueiras / Matrícula: 201935015
+
 (require 
   dcc019/exercise/iclasses/modules/Class
   dcc019/util/memory)
